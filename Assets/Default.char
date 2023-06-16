@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "name": "Shirt",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -193984
+                },
+                {
+                    "instanceID": -193990
+                },
+                {
+                    "instanceID": -193996
+                },
+                {
+                    "instanceID": -194002
+                },
+                {
+                    "instanceID": -194008
+                },
+                {
+                    "instanceID": -194014
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Glove",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -193828
+                },
+                {
+                    "instanceID": -235300
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Pants",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -193920
+                },
+                {
+                    "instanceID": -193926
+                },
+                {
+                    "instanceID": -193932
+                },
+                {
+                    "instanceID": -193938
+                },
+                {
+                    "instanceID": -193944
+                },
+                {
+                    "instanceID": -193950
+                },
+                {
+                    "instanceID": -193956
+                },
+                {
+                    "instanceID": -193962
+                },
+                {
+                    "instanceID": -193968
+                },
+                {
+                    "instanceID": -193974
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Boot",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -194048
+                },
+                {
+                    "instanceID": -194054
+                },
+                {
+                    "instanceID": -242186
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Face_Accessory",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -254258
+                },
+                {
+                    "instanceID": -193842
+                },
+                {
+                    "instanceID": -193848
+                },
+                {
+                    "instanceID": -193854
+                },
+                {
+                    "instanceID": -193860
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Hair",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -255362
+                },
+                {
+                    "instanceID": -193870
+                },
+                {
+                    "instanceID": -193876
+                },
+                {
+                    "instanceID": -193882
+                },
+                {
+                    "instanceID": -193888
+                },
+                {
+                    "instanceID": -193894
+                }
+            ],
+            "Search": false
+        },
+        {
+            "name": "Hat",
+            "Selection": 0,
+            "objects": [
+                {
+                    "instanceID": -259136
+                },
+                {
+                    "instanceID": -193904
+                },
+                {
+                    "instanceID": -193910
+                }
+            ],
+            "Search": false
+        }
+    ]
+}
